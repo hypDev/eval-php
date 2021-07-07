@@ -12,6 +12,8 @@ This is expected to take no more than 3 hours. Please do not exceed 3 hours.
 
 If there isn't time to fix everything, you can simply point out what the issues are and how you would resolve it.
 
+**The "database" of entries doesn't persist by design. It is simply stored as a PHP session variable. You do NOT need to change this to be persisted storage.**
+
 ---
 
 # Install
